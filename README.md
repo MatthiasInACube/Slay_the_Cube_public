@@ -1,7 +1,10 @@
 # Slay the Cube public Repository 
 - This Repository is based on Nue Deck - great thanks for an awsome template
 - This Repository is a template for the task within PEC Game Development GmbH for a job offer (see link: https://cube-4c2868.webflow.io/slay-the-cube).
+
+# This is addition to the Apache Licenses:
 - The submitted data, codes, type which are submitted within these tasks are the intellectual property of PEC Game Development gmbH.
+- All applicants agree to these supplemental license agreements when applying for the open job postings at PEC GmbH (PEC Game Development) with the corresponding codes, art and the entire repository.
 
 
 # Nue Deck - Roguelike Card Game Template
